@@ -1,0 +1,3 @@
+#define RUN_MODE_SERVER 1
+#define RUN_MODE_CLIENT 2
+#define RUN_MODE_UNDEF  3
